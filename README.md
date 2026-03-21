@@ -10,11 +10,6 @@ This enables teams to focus on high-value customers for retention while identify
 2. [Data Structure](#data-structure)
 3. [Executive Summary](#executive-summary)
 4. [Insights Deep-Dive](#insights-deep-dive)
-   - [Campaign Performance](#campaign-performance)
-     - [Engagement & CTR Performance](#engagement--ctr-performance)
-     - [High vs Low Conversion Campaign Performance](#high-vs-low-conversion-campaign-performance)
-   - [Geographic Performance](#geographic-performance)
-   - [Ad Format Performance](#ad-format-performance)
 5. [Recommendations](#recommendations)
 6. [Tech Stack](#tech-stack)
 7. [Dashboard Preview](#dashboard-preview)
@@ -28,6 +23,8 @@ This project builds a **Customer Retention Intelligence Dashboard using RFM anal
 To ensure scalability and real-world applicability, the project is implemented using a **cloud-based analytics pipeline**. Data cleaning and transformation are performed in **Google BigQuery using SQL (including CTEs and conditional logic)**, where RFM metrics are computed and structured into analysis-ready datasets. This data is then **connected to Tableau for live, interactive visualization**, enabling real-time exploration of customer segments without manual intervention. T**he end-to-end pipeline is fully automated**, reflecting how modern data teams build efficient, always-updated reporting systems for business stakeholders.
 
 Beyond segmentation, this project is part of a broader effort to **move from analysis to decision-making**. By combining insights from this RFM model with ad performance data and category-level insights, **the goal is to design a behavior-driven loyalty program for an e-commerce business**. This demonstrates the ability to not only analyze data but also translate insights into actionable strategies that drive retention, optimize marketing efforts, and create measurable business impact.
+
+**Live Tableau RFM Dashbaord:** [Dashboard Link ](https://public.tableau.com/app/profile/harender.singh1204/viz/rfm_analysis_dashboard/rfm_Daashboard2?publish=yes)
 
 ---
 ## Data Structure
@@ -85,68 +82,6 @@ These insights suggest a **need to strengthen conversion from mid-value segments
 * **Reduce Churn from At Risk Customers:** 24% customers are At Risk or require attention indicating a high likelihood of churn if not addressed. To mitigate this, automated re-engagement campaigns should be triggered after 20–30 days of inactivity, supported by time-limited offers to create urgency and encourage return purchases.
 
   These actions can prevent customers from moving into the Lost segment and recover potential revenue from existing users.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
