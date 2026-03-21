@@ -83,8 +83,21 @@ These insights suggest a **need to strengthen conversion from mid-value segments
 
   These actions can prevent customers from moving into the Lost segment and recover potential revenue from existing users.
 
+---
+
+## Tech-Stack
+
+## 🔗 Tech Stack → Business Impact Mapping  
+
+| Tool / Technology | Use  | Business Impact |
+|------------------|------------|-----------------|
+| Google BigQuery | Processed and transformed raw transactional data on cloud using scalable queries | Enabled handling of large datasets efficiently and ensured faster, reliable data processing for real-time analysis |
+| Advanced SQL (CTEs, Views, CASE) | Built logic to calculate RFM metrics, assign scores, and create customer segments | Transformed raw data into actionable customer insights for retention and churn analysis |
+| Tableau | Developed interactive dashboards with live data connection | Enabled stakeholders to explore customer segments in real time and make faster, data-driven decisions |
+| ChatGPT | Assisted in structuring analysis, refining insights, and improving documentation | Improved clarity of business storytelling and strengthened decision-focused communication |
+| Google AI Overview & Gemini | Provided business context, use cases, and best practices | Enhanced analytical depth and ensured recommendations aligned with real-world business scenarios |
 
 
-# Dashboard Preview
+## Dashboard Preview
 https://public.tableau.com/app/profile/harender.singh1204/viz/rfm_analysis_dashboard/rfm_Daashboard2?publish=yes
 
