@@ -28,3 +28,27 @@ This project builds a **Customer Retention Intelligence Dashboard using RFM anal
 To ensure scalability and real-world applicability, the project is implemented using a **cloud-based analytics pipeline**. Data cleaning and transformation are performed in **Google BigQuery using SQL (including CTEs and conditional logic)**, where RFM metrics are computed and structured into analysis-ready datasets. This data is then **connected to Tableau for live, interactive visualization**, enabling real-time exploration of customer segments without manual intervention. T**he end-to-end pipeline is fully automated**, reflecting how modern data teams build efficient, always-updated reporting systems for business stakeholders.
 
 Beyond segmentation, this project is part of a broader effort to **move from analysis to decision-making**. By combining insights from this RFM model with ad performance data and category-level insights, **the goal is to design a behavior-driven loyalty program for an e-commerce business**. This demonstrates the ability to not only analyze data but also translate insights into actionable strategies that drive retention, optimize marketing efforts, and create measurable business impact.
+
+---
+## Data Structure
+| Field Name       | Data Type     | Business Description                                             |
+|------------------|---------------|------------------------------------------------------------------|
+| **OrderID**      | String / ID   | Unique key to count transactions for the Frequency score         |
+| **CustomerID**   | String / ID   | Unique identifier used to aggregate all metrics per customer     |
+| **OrderDate**    | Date          | Identifies latest purchase to calculate the Recency score        |
+| **ProductType**  | String        | Contextual data for segment-specific cross-selling strategies    |
+| **OrderValue**   | Float         | Summed to calculate the total Monetary value per user            |
+
+**Calculation Logic**
+
+   **Recency   :** Days elapsed since the maximum OrderDate per customer.  
+   **Frequency :** Total count of unique OrderID entries per customer.  
+   **Monetary  :** Total sum of OrderValue per customer.
+
+
+
+---
+
+## Executive Summary
+
+[![Exceutive_Summary_KPIS](https://i.postimg.cc/7hZRnSFt/Screenshot-2026-03-21-160127.png)](https://postimg.cc/34z9K0J2)
