@@ -49,7 +49,7 @@ Beyond segmentation, this project is part of a broader effort to **move from ana
 
 ## Executive Summary
 
-![Screenshot-2026-03-21-160127.png](https://i.postimg.cc/7hZRnSFt/Screenshot-2026-03-21-160127.png)
+![rfm-Daashboard-kpis-exc-summary.png](https://i.postimg.cc/4x3wmJ64/rfm-Daashboard-kpis-exc-summary.png)
 
 This analysis evaluates customer behavior over a one-year period using RFM segmentation across 287 customers to identify retention opportunities and churn risks. The results show that a large portion of customers remain in early and mid-engagement stages, with **Engaged (21.3%) and Promising (15.7%)** forming the largest segments, indicating consistent interaction but limited progression toward high-value, loyal customers over time.
 
