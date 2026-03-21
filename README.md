@@ -38,9 +38,9 @@ Beyond segmentation, this project is part of a broader effort to **move from ana
 
 **Calculation Logic**
 
-   **Recency   :** Days elapsed since the maximum OrderDate per customer.  
-   **Frequency :** Total count of unique OrderID entries per customer.  
-   **Monetary  :** Total sum of OrderValue per customer.
+- **Recency   :** Days elapsed since the maximum OrderDate per customer.  
+- **Frequency :** Total count of unique OrderID entries per customer.  
+- **Monetary  :** Total sum of OrderValue per customer.
 
 ---
 
