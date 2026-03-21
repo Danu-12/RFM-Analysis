@@ -45,10 +45,14 @@ Beyond segmentation, this project is part of a broader effort to **move from ana
    **Frequency :** Total count of unique OrderID entries per customer.  
    **Monetary  :** Total sum of OrderValue per customer.
 
-
-
 ---
 
 ## Executive Summary
 
-[![Exceutive_Summary_KPIS](https://i.postimg.cc/7hZRnSFt/Screenshot-2026-03-21-160127.png)](https://postimg.cc/34z9K0J2)
+![Screenshot-2026-03-21-160127.png](https://i.postimg.cc/7hZRnSFt/Screenshot-2026-03-21-160127.png)
+
+This analysis evaluates customer behavior over a one-year period using RFM segmentation across 287 customers to identify retention opportunities and churn risks. The results show that a large portion of customers remain in early and mid-engagement stages, with **Engaged (21.3%) and Promising (15.7%)** forming the largest segments, indicating consistent interaction but limited progression toward high-value, loyal customers over time.
+
+However, only **7.7% of customers fall into the Champions segment**, highlighting a gap in converting active users into high-value, repeat buyers even over a longer duration. At the same time, **24% of customers fall into At Risk and Require Attention segments**, signaling sustained churn risk that requires proactive intervention.
+
+These insights suggest a **need to strengthen conversion from mid-value segments (Promising, Potential Loyalists) into loyal customers**, while implementing timely re-engagement strategies for declining users. Focusing on these areas can improve customer retention, increase repeat purchase behavior, and drive long-term revenue growth.
