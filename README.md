@@ -68,13 +68,23 @@ These insights suggest a **need to strengthen conversion from mid-value segments
      
    * The Lost segment remains low (2.4%), indicating that the customer base is still in an early lifecycle stage. This presents an opportunity to proactively build loyalty before churn increases.
 
+![Screenshot-2026-03-21-181141.png](https://i.postimg.cc/Bb5b9LNd/Screenshot-2026-03-21-181141.png)
+
 ---
 
 ## Recommendations
 
-   * **Convert Engaged Users into Loyal Customers:** The high share of Engaged users (21.3%) compared to low Champions (7.7%) highlights a gap in converting active users into repeat buyers. Targeted repeat purchase campaigns within 7–15 days, supported by personalized recommendations and second-order discounts, can address this.  
-   These actions encourage additional transactions and stronger engagement. As a result, purchase frequency increases and more users move into Loyal and Champion segments.
+   * **Convert Engaged Users into Loyal Customers:** The high share of Engaged users (21.3%) compared to low Champions (7.7%) highlights a gap in converting active users into repeat buyers. Targeted repeat purchase campaigns within 7–15 days, supported by personalized recommendations and second-order discounts, can address this.
+   
+     These actions encourage additional transactions and stronger engagement. As a result, purchase frequency increases and more users move into Loyal and Champion segments.
 
+   * **Activate Mid-Value Segments (Promising + Potential Loyalists):** 30% customers are close to becoming loyal but not fully converted. To capitalize on this, milestone-based rewards (e.g., “Buy 2 more times → unlock ₹500 reward”) and bundle offers should be implemented to encourage repeat purchases and increase basket size.
+
+     These actions help nurture customers at a critical stage in their lifecycle. As a result, this segment can be effectively converted into loyal customers, driving higher revenue growth.
+
+* **Reduce Churn from At Risk Customers:** 24% customers are At Risk or require attention indicating a high likelihood of churn if not addressed. To mitigate this, automated re-engagement campaigns should be triggered after 20–30 days of inactivity, supported by time-limited offers to create urgency and encourage return purchases.
+
+  These actions can prevent customers from moving into the Lost segment and recover potential revenue from existing users.
 
 
 
