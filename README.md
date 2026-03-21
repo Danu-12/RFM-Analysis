@@ -59,9 +59,21 @@ These insights suggest a **need to strengthen conversion from mid-value segments
 
 --- 
 ## Insights Deep-Dive
+
+   * A large portion of customers falls into the **Engaged segment (21.3%)**, while **only 7.7% are Champions**, indicating strong initial interaction but limited conversion into high-value, loyal customers. This highlights a gap in progressing users through the customer lifecycle.
+     
+   * **Promising (15.7%) and Potential Loyalists (14.3%) together form 30% of the customer base**, representing the strongest opportunity for growth. These customers show repeat behavior and can be converted into loyal users through targeted engagement strategies.
+     
+   * Approximately **24% of customers fall into At Risk and Require Attention segments**, signaling early-stage churn risk. Without timely intervention, these customers are likely to transition into inactive segments, leading to revenue loss.
+     
+   * The Lost segment remains low (2.4%), indicating that the customer base is still in an early lifecycle stage. This presents an opportunity to proactively build loyalty before churn increases.
+
 ---
 
+## Recommendations
 
+   * **Convert Engaged Users into Loyal Customers:** The high share of Engaged users (21.3%) compared to low Champions (7.7%) highlights a gap in converting active users into repeat buyers. Targeted repeat purchase campaigns within 7–15 days, supported by personalized recommendations and second-order discounts, can address this.  
+   These actions encourage additional transactions and stronger engagement. As a result, purchase frequency increases and more users move into Loyal and Champion segments.
 
 
 
