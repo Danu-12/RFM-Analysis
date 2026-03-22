@@ -100,18 +100,6 @@ These insights suggest a **need to strengthen conversion from mid-value segments
 
 ## Loyalty Program
 
-Aditi, a 24-year-old user, places her first order on the platform after interacting with an Instagram ad. Based on her behavior, she is categorized as an “Engaged” user in the RFM model.
-
-Immediately after her first purchase, she enters the “Starter Quest,” where she is encouraged to complete her second order within 7 days to unlock a reward. She receives personalized product recommendations based on her previous purchase along with a limited-time discount, motivating her to place another order.
-
-As she continues purchasing, Aditi moves into the “Promising” segment and unlocks the “Growth Quest.” Here, she is encouraged to explore new categories such as healthy and low-fat products through curated bundles and milestone-based rewards. This increases both her purchase frequency and basket size.
-
-After a period of inactivity, Aditi is identified as an “At Risk” customer. She receives a personalized re-engagement notification with a time-bound offer and a reminder of her reward progress. She returns to complete a purchase, preventing churn.
-
-Over time, Aditi progresses into the “Loyal” and eventually “Champion” segment, where she gains access to exclusive benefits such as early deals, bonus points, and premium rewards.
-
-This journey demonstrates how behavioral segmentation combined with gamification can guide users across different lifecycle stages, improving retention, increasing engagement, and maximizing customer lifetime value.
-
 ```mermaid
 flowchart TD
     A["Customer Data Layer<br/>(RFM + Ad + Category Data)"] --> B["Data Segmentation"]
@@ -138,4 +126,60 @@ flowchart TD
     E --> E2["↓ Churn"]
     E --> E3["↑ Basket Size"]
     E --> E4["↑ Customer Lifetime Value"]
-``` 
+```
+
+## Case Study
+
+
+Aditi, a 24-year-old user, places her first order on the platform after interacting with an Instagram ad. Based on her behavior, she is categorized as an “Engaged” user in the RFM model.
+
+Immediately after her first purchase, she enters the “Starter Quest,” where she is encouraged to complete her second order within 7 days to unlock a reward. She receives personalized product recommendations based on her previous purchase along with a limited-time discount, motivating her to place another order.
+
+As she continues purchasing, Aditi moves into the “Promising” segment and unlocks the “Growth Quest.” Here, she is encouraged to explore new categories such as healthy and low-fat products through curated bundles and milestone-based rewards. This increases both her purchase frequency and basket size.
+
+After a period of inactivity, Aditi is identified as an “At Risk” customer. She receives a personalized re-engagement notification with a time-bound offer and a reminder of her reward progress. She returns to complete a purchase, preventing churn.
+
+Over time, Aditi progresses into the “Loyal” and eventually “Champion” segment, where she gains access to exclusive benefits such as early deals, bonus points, and premium rewards.
+
+This journey demonstrates how behavioral segmentation combined with gamification can guide users across different lifecycle stages, improving retention, increasing engagement, and maximizing customer lifetime value.
+
+
+
+
+
+## 🔄 Customer Lifecycle Flow (Gamified Loyalty Journey)
+
+**Acquire**  
+- Ad Exposure (Instagram / Meta Ads)  
+- Aditi Clicks Ad → Lands on Platform  
+- First Purchase Completed  
+- Aditi Tagged as "Engaged" (RFM)  
+
+**Activate**  
+- Starter Quest Triggered (2nd Order Challenge)  
+- Personalized Product Recommendations  
+- 2nd Order Discount Offered  
+- Aditi Completes Second Purchase  
+
+**Engage**  
+- Aditi Moves to "Promising Segment"  
+- Growth Quest Activated  
+- Milestone Tasks (e.g., 3 Orders / Category Exploration)  
+- Bundle & Low-Fat Product Recommendations  
+- Increased Purchase Frequency & Basket Size  
+- Aditi Becomes "Potential Loyalist"  
+
+**Recover**  
+- Aditi Becomes Inactive (20–30 Days)  
+- Moves to "At Risk Segment"  
+- Comeback Mission Triggered  
+- Time-Limited Offer (24–48 hrs)  
+- Retargeting Ads (Story Format)  
+- Aditi Returns & Makes Purchase  
+
+**Retain**  
+- Aditi Moves to "Loyal Segment"  
+- Unlocks Advanced Rewards  
+- Earns Bonus Points & Exclusive Offers  
+- Early Access to Deals  
+- Becomes "Champion Customer"
