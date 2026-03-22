@@ -1,3 +1,5 @@
+![Gemini-Generated-Image-av4nwaav4nwaav4n.png](https://i.postimg.cc/ncmSJmsm/Gemini-Generated-Image-av4nwaav4nwaav4n.png)
+
 # RFM Customer segmentation Analysis
 
 Marketing and CRM teams lack clear visibility into which customers drive revenue and which are disengaging, leading to inefficient campaigns and missed opportunities. RFM analysis addresses this by segmenting customers based on purchasing behavior, providing clarity on customer value and engagement.
