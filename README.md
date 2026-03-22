@@ -12,7 +12,7 @@ This enables teams to focus on high-value customers for retention while identify
 4. [Insights Deep-Dive](#insights-deep-dive)
 5. [Recommendations](#recommendations)
 6. [Tech Stack](#tech-stack)
-7. [Dashboard Preview](#dashboard-preview)
+7. [Loyalty Program](#loyalty-program)
   
 ---
 
