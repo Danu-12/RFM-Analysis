@@ -113,7 +113,7 @@ flowchart TD
     
     B --> B1["RFM (Who)"]
     B --> B2["Ads (How)"]
-    B --> B3["Category"]
+    B --> B3["Category (What)"]
 
     B1 --> C["Gamification Engine<br/>(Missions | Rewards | Points)"]
     B2 --> C
