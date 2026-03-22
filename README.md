@@ -131,23 +131,20 @@ flowchart TD
 ## Case Study
 
 
-Aditi, a 24-year-old user, places her first order on the platform after interacting with an Instagram ad. Based on her behavior, she is categorized as an “Engaged” user in the RFM model.
+Aditi, a 24-year-old user, places her **first order** on the platform after **interacting with an Instagram ad**. Based on her behavior, she is categorized as an **“Engaged” user in the RFM model**.
 
-Immediately after her first purchase, she enters the “Starter Quest,” where she is encouraged to complete her second order within 7 days to unlock a reward. She receives personalized product recommendations based on her previous purchase along with a limited-time discount, motivating her to place another order.
+Immediately after her first purchase, she **enters the “Starter Quest”** where she is encouraged to complete her second order within 7 days to unlock a reward. She **receives personalized product recommendations** based on her previous purchase along with a limited-time discount, motivating her to place another order.
 
-As she continues purchasing, Aditi moves into the “Promising” segment and unlocks the “Growth Quest.” Here, she is encouraged to explore new categories such as healthy and low-fat products through curated bundles and milestone-based rewards. This increases both her purchase frequency and basket size.
+As she continues purchasing, Aditi moves into the **“Promising” segment** and unlocks the **“Growth Quest.”** Here, she is encouraged to explore new categories such as healthy and low-fat products through curated bundles and milestone-based rewards. This increases both her purchase frequency and basket size.
 
-After a period of inactivity, Aditi is identified as an “At Risk” customer. She receives a personalized re-engagement notification with a time-bound offer and a reminder of her reward progress. She returns to complete a purchase, preventing churn.
+After a period of inactivity, Aditi is identified as an **“At Risk” customer**. She receives a personalized re-engagement notification with a time-bound offer and a reminder of her reward progress. She returns to complete a purchase, preventing churn.
 
-Over time, Aditi progresses into the “Loyal” and eventually “Champion” segment, where she gains access to exclusive benefits such as early deals, bonus points, and premium rewards.
+Over time, Aditi progresses into the **“Loyal” and eventually “Champion” segment**, where she gains access to exclusive benefits such as early deals, bonus points, and premium rewards.
 
-This journey demonstrates how behavioral segmentation combined with gamification can guide users across different lifecycle stages, improving retention, increasing engagement, and maximizing customer lifetime value.
-
-
+    Acquire → Activate → Engage → Recover → Retain
 
 
-
-## 🔄 Customer Lifecycle Flow (Gamified Loyalty Journey)
+## Customer Lifecycle Flow (Gamified Loyalty Journey)
 
 **Acquire**  
 - Ad Exposure (Instagram / Meta Ads)  
