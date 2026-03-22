@@ -1,4 +1,4 @@
-![Gemini-Generated-Image-av4nwaav4nwaav4n.png](https://i.postimg.cc/ncmSJmsm/Gemini-Generated-Image-av4nwaav4nwaav4n.png)
+![rfm-banner.png](https://i.postimg.cc/d35sQfS3/rfm-banner.png)]
 
 # RFM Customer segmentation Analysis
 
