@@ -100,6 +100,13 @@ These insights suggest a **need to strengthen conversion from mid-value segments
 
 ## Loyalty Program
 
+This loyalty program was built to demonstrate capabilities beyond data cleaning and analysis, showcasing the ability to understand business problems and design actionable, data-driven solutions. It reflects a shift from identifying insights to applying them in a way that can create real business impact.
+
+The program is developed by integrating insights from **three key analytics projects—Quick Commerce Category & Clubhouse Optimization, Meta Ad Performance Analysis, and RFM Customer Segmentation**. By combining customer behavior, engagement patterns, and product preferences, it creates a unified view of how customers interact with the business.
+
+It helps the business by providing a structured, **data-backed approach to improving retention and reducing churn.** Instead of generic strategies, it enables targeted loyalty actions based on real customer behavior, ultimately driving repeat purchases, improving customer lifetime value, and supporting sustainable growth
+
+
 ```mermaid
 flowchart TD
     A["Customer Data Layer<br/>(RFM + Ad + Category Data)"] --> B["Data Segmentation"]
