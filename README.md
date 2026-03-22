@@ -98,6 +98,44 @@ These insights suggest a **need to strengthen conversion from mid-value segments
 | Google AI Overview & Gemini | Provided business context, use cases, and best practices | Enhanced analytical depth and ensured recommendations aligned with real-world business scenarios |
 
 
-## Dashboard Preview
-https://public.tableau.com/app/profile/harender.singh1204/viz/rfm_analysis_dashboard/rfm_Daashboard2?publish=yes
+## Loyalty Program
 
+Aditi, a 24-year-old user, places her first order on the platform after interacting with an Instagram ad. Based on her behavior, she is categorized as an “Engaged” user in the RFM model.
+
+Immediately after her first purchase, she enters the “Starter Quest,” where she is encouraged to complete her second order within 7 days to unlock a reward. She receives personalized product recommendations based on her previous purchase along with a limited-time discount, motivating her to place another order.
+
+As she continues purchasing, Aditi moves into the “Promising” segment and unlocks the “Growth Quest.” Here, she is encouraged to explore new categories such as healthy and low-fat products through curated bundles and milestone-based rewards. This increases both her purchase frequency and basket size.
+
+After a period of inactivity, Aditi is identified as an “At Risk” customer. She receives a personalized re-engagement notification with a time-bound offer and a reminder of her reward progress. She returns to complete a purchase, preventing churn.
+
+Over time, Aditi progresses into the “Loyal” and eventually “Champion” segment, where she gains access to exclusive benefits such as early deals, bonus points, and premium rewards.
+
+This journey demonstrates how behavioral segmentation combined with gamification can guide users across different lifecycle stages, improving retention, increasing engagement, and maximizing customer lifetime value.
+
+```mermaid
+flowchart TD
+    A["Customer Data Layer<br/>(RFM + Ad + Category Data)"] --> B["Data Segmentation"]
+    
+    B --> B1["RFM (Who)"]
+    B --> B2["Ads (How)"]
+    B --> B3["Category"]
+
+    B1 --> C["Gamification Engine<br/>(Missions | Rewards | Points)"]
+    B2 --> C
+    B3 --> C
+
+    C --> D["Customer Lifecycle Actions"]
+    
+    D --> D1["Acquisition"]
+    D --> D2["Engagement"]
+    D --> D3["Retention"]
+
+    D1 --> E["Business Outcomes"]
+    D2 --> E
+    D3 --> E
+
+    E --> E1["↑ Repeat Purchases"]
+    E --> E2["↓ Churn"]
+    E --> E3["↑ Basket Size"]
+    E --> E4["↑ Customer Lifetime Value"]
+``` 
