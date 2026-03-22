@@ -148,7 +148,7 @@ After a period of inactivity, Aditi is identified as an **“At Risk” customer
 
 Over time, Aditi progresses into the **“Loyal” and eventually “Champion” segment**, where she gains access to exclusive benefits such as early deals, bonus points, and premium rewards.
 
-    Acquire → Activate → Engage → Recover → Retain
+                    Acquire → Activate → Engage → Recover → Retain
 
 
 ## Customer Lifecycle Flow (Gamified Loyalty Journey)
