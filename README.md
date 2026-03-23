@@ -26,7 +26,7 @@ To ensure scalability and real-world applicability, the project is implemented u
 
 Beyond segmentation, this project is part of a broader effort to **move from analysis to decision-making**. By combining insights from this RFM model with ad performance data and category-level insights, **the goal is to design a behavior-driven loyalty program for an e-commerce business**. This demonstrates the ability to not only analyze data but also translate insights into actionable strategies that drive retention, optimize marketing efforts, and create measurable business impact.
 
-**Live Tableau RFM Dashbaord:** [Dashboard Link ](https://public.tableau.com/app/profile/harender.singh1204/viz/rfm_analysis_dashboard/rfm_Daashboard2?publish=yes)
+**Live Tableau RFM Dashbaord:** [Dashboard Link ](https://public.tableau.com/app/profile/harender.singh1204/viz/rfm_analysis_dashboard/rfm_Daashboard2)
 
 ---
 ## Data Structure
